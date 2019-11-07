@@ -1,0 +1,127 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[margin=.5in]{geometry} % Document margins
+\usepackage[hidelinks]{hyperref}
+\usepackage[T1]{fontenc}
+\name{Logan Hutcheson} % Your name
+%\address{123 Pleasant Lane \\ City, State 12345} % Your secondary addess (optional)
+\address{(912) 547-5739 \\  \href[]{mailto:loganchutcheson@gmail.com}{\texttt{loganchutcheson@gmail.com}}}
+\address{\href{https://github.com/loganhutcheson}{\texttt{github.com/loganhutcheson}} \\ \href{https://www.linkedin.com/in/logan-hutcheson-172008158/}{\texttt{LinkedIn}}}
+
+% Your phone number and email and github
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf University of Georgia, Honors Program, Athens, GA 
+\hfill {Aug 2016 -- Dec 2020}} \\
+\textit{Bachelor of Science in Biology}  \\
+\textit{Bachelor of Science in Computer Science}  \hfill {}\\
+%Foundation Fellow, Class of 2020 \\
+GPA: 3.8/4.0 \smallskip  \\ 
+{\bf Georgia Southern University, Statesboro, GA \hfill {Aug 2015 -- May 2016}} \\
+Completed biology and physics courses with honors.  \smallskip 
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	RESEARCH SECTION
+%-----------------------------------------------------------------------------------------
+
+\begin{rSection}{Research and Project Experience}
+	
+	\begin{rSubsection}{Lab Technician I, Environmental Protection Agency of Athens, GA}{Oct 2017 -- present}{}{}
+		\item Performed experimental method with a research team in the exposure of cell models to water sites across the United States.
+		\item Improved existing methods and modified protocol according to experimental outcomes.
+	\end{rSubsection}
+
+	\begin{rSubsection}{UNIX Shell clone, Systems Design Term Project}{July 2018}{}{}
+		\item Collaborated in a team of two students to develop a UNIX command-line clone in C++.
+	\end{rSubsection}
+
+	\begin{rSubsection}{Arcade Clone, Software Development Term Project}{Mar 2018}{}{}
+	\item Built arcade GUI and 2D game clone with JavaFX toolkit in Java for Software Development class.
+	\item Implemented error-handling and wrote comprehensive Javadoc documentation.
+	\end{rSubsection}
+	
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	ACTIVITIES SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Activities}
+	\begin{rSubsection}{Med-Life Mobile Clinic Committee}{Sep 2017 -- May 2018}{}{}
+	\item Member of monthly-committee on outreach for mobile clinics providing medical support to communities in need. Participated in mobile clinic targeting communities in Lima, Peru.
+	\end{rSubsection}
+	
+	\begin{rSubsection}{Clark Middle school Tutoring}{Sep 2017 -- May 2018}{}{}
+	\item Mentored students at Athens-Clarke County Middle school for school programs Math-Counts and WIT.
+	\end{rSubsection}
+	\begin{rSubsection}{YMCA Head Lifeguard}{Summer 15-17'}{}{}
+	\item Assisted coworkers in developing appropriate skills, provided necessary support and supervision of youth. 
+	\item Completed routine pool maintenance and paper work. 
+	\end{rSubsection}
+\end{rSection}
+
+
+
+%----------------------------------------------------------------------------------------
+%	AWARDS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Scholarships and Distinctions}
+	\begin{tabular}{ @{} >{\bfseries}l @{\hspace{3ex}} l }
+		Presidential Scholar & awarded for perfect GPA, achieved for multiple semesters \\
+		Georgia Ports Authority Scholarship & awarded for top employee-family SAT score \\
+		Georgia Southern Housing Award & provided full housing to select honors students \\
+	\end{tabular}
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL SKILLS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Skills and Courses}
+	
+	\begin{tabular}{ @{} >{\bfseries}l @{\hspace{5ex}} l }
+		Software & \textit{(proficient)}: C++, Java, Git, Emacs \\
+		& \textit{(familiar)}: Python, HTML, CSS, \LaTeX, Eclipse \\
+		& \\
+		CS Courses & Data Structures, Systems Programming, Theory of Computing, Software Development, \\
+		& Discrete Math, Computing Ethics\\
+		& \\
+		Biology Courses & Organic Chemistry I \& II, Ecology, Biochemistry, Cell Biology, Microbiology, Genetics,\\ 
+	\end{tabular}
+	
+\end{rSection}
+
+\end{document}
