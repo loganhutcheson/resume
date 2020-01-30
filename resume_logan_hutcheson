@@ -62,8 +62,8 @@ Completed biology and physics courses with honors.  \smallskip
 		\item Improved existing methods and modified protocol according to experimental outcomes.
 	\end{rSubsection}
 
-	\begin{rSubsection}{UNIX Shell clone, Systems Design Term Project}{July 2018}{}{}
-		\item Collaborated in a team of two students to develop a UNIX command-line clone in C++.
+	\begin{rSubsection}{FTP Server and Client, Distributed Systems Project}{January 2020}{}{}
+		\item Collaborated in a team to develop a FTP server in java using sockets.
 	\end{rSubsection}
 
 	\begin{rSubsection}{Arcade Clone, Software Development Term Project}{Mar 2018}{}{}
@@ -78,11 +78,12 @@ Completed biology and physics courses with honors.  \smallskip
 %----------------------------------------------------------------------------------------
 
 \begin{rSection}{Activities}
-	\begin{rSubsection}{Med-Life Mobile Clinic Committee}{Sep 2017 -- May 2018}{}{}
-	\item Member of monthly-committee on outreach for mobile clinics providing medical support to communities in need. Participated in mobile clinic targeting communities in Lima, Peru.
+	\begin{rSubsection}{Med-Life Mobile Clinic}{Sep 2017 -- May 2018}{}{}
+	\item Member of monthly-committee on outreach for mobile clinics providing medical support to communities in need. 
+	\item Participated in mobile clinic targeting communities in Lima, Peru.
 	\end{rSubsection}
 	
-	\begin{rSubsection}{Clark Middle school Tutoring}{Sep 2017 -- May 2018}{}{}
+	\begin{rSubsection}{Clark Middle School Tutor}{Sep 2017 -- May 2018}{}{}
 	\item Mentored students at Athens-Clarke County Middle school for school programs Math-Counts and WIT.
 	\end{rSubsection}
 	\begin{rSubsection}{YMCA Head Lifeguard}{Summer 15-17'}{}{}
@@ -99,9 +100,9 @@ Completed biology and physics courses with honors.  \smallskip
 
 \begin{rSection}{Scholarships and Distinctions}
 	\begin{tabular}{ @{} >{\bfseries}l @{\hspace{3ex}} l }
-		Presidential Scholar & awarded for perfect GPA, achieved for multiple semesters \\
-		Georgia Ports Authority Scholarship & awarded for top employee-family SAT score \\
-		Georgia Southern Housing Award & provided full housing to select honors students \\
+		Presidential Scholar & Awarded for perfect GPA, achieved for multiple semesters. \\
+		Phi Beta Kappa & Inducted in December 2019 for academic excellence. \\
+		Georgia Southern Housing Award & Provided full housing to select honors students. \\
 	\end{tabular}
 \end{rSection}
 
@@ -114,10 +115,10 @@ Completed biology and physics courses with honors.  \smallskip
 	
 	\begin{tabular}{ @{} >{\bfseries}l @{\hspace{5ex}} l }
 		Software & \textit{(proficient)}: C++, Java, Git, Emacs \\
-		& \textit{(familiar)}: Python, HTML, CSS, \LaTeX, Eclipse \\
+		& \textit{(familiar)}: Python, HTML, CSS, \LaTeX, Eclipse, Spring Boot, MySQL\\
 		& \\
 		CS Courses & Data Structures, Systems Programming, Theory of Computing, Software Development, \\
-		& Discrete Math, Computing Ethics\\
+		& Discrete Math, Computing Ethics, Algorithms, Distributed Systems, Computer Architecture\\
 		& \\
 		Biology Courses & Organic Chemistry I \& II, Ecology, Biochemistry, Cell Biology, Microbiology, Genetics,\\ 
 	\end{tabular}
